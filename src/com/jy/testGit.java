@@ -10,6 +10,7 @@ public class testGit {
         he.setName("噶一");
         System.out.println("名字："+he.getName());
         System.out.println("分支 dev。。。");
+        System.out.println("分支 dev。。。准备合并");
 
     }
 }
