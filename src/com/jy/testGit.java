@@ -9,6 +9,10 @@ public class testGit {
         System.out.println("噶一测试版本第二次");
         he.setName("噶一");
         System.out.println("名字："+he.getName());
+        System.out.println("噶一测试版本第三次");
+        he.setName("社会你一哥哥");
+        System.out.println("名字："+he.getName());
+
 
     }
 }
